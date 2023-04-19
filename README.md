@@ -14,7 +14,7 @@ yarn run pre-build
 third. run 
 
 ```
-yarn deva
+yarn dev
 ```
 ## changes
 
