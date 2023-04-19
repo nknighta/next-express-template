@@ -3,24 +3,21 @@
 fisrt. run 
 
 ```
-npm i
+yarn
 ```
-
 second. run 
 
 ```
-npm run pre-build
+yarn run pre-build
 ```
 
 third. run 
 
 ```
-npm start
+yarn deva
 ```
+## changes
 
-## CAUTION
+change default support package manager
 
-dev とnodemon使用時
-package.jsonに"type":"commonjs"
-tsconfigに"module": "CommonJS"
-を追加で記述すること!!!
+npm to yarn

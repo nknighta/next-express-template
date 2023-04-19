@@ -1,3 +1,7 @@
+# dir
 node_modules/
 dist/
 .next/
+
+# files
+yarn.lock
